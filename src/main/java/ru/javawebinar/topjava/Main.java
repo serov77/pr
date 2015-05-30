@@ -2,6 +2,6 @@ package ru.javawebinar.topjava;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.format("Hello Topjava!");
+        System.out.format("Hello T2opjavaq!");
     }
 }
